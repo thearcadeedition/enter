@@ -77,3 +77,6 @@ That's it! Commit and push — GitHub Pages deploys automatically.
 - **Site name**: edit the `<title>` and `.wordmark` text in `index.html`
 - **Accent color**: change `--accent: #f5a623;` in `assets/app.css`
 - **Tags**: add new tag buttons in `index.html` and tag your games in `games.js`
+
+## Notes
+- Add image adress for game images
